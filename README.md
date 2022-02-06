@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Rahul Rahman. 
-   https://www.rahulrahman.com
 </h2>
 https://www.rahulrahman.com 
 
