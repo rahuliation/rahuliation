@@ -46,17 +46,27 @@ https://www.rahulrahman.com
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.rahulrahman.com)
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuliation&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahul's Github Stats">
 
-</br>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rahuliation&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/rahuliation" alt="Rahul Rahman" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuliation&theme=dark&hide_border=true" />
+</td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuliation&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rahuliation/github-readme-stats)
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://twitter.com/rahuliation" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-<a href="https://www.linkedin.com/in/rahul-workspace/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a> <a href="mailto:rahuliation@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+[![Mail](https://img.shields.io/badge/hello@rahulrahman.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rahulrahman.com?Subject=Hello)
+[![Skype](https://img.shields.io/badge/<live:rahul.workspace>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](skype::live:rahul.workspace)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-workspace/)
+
 
