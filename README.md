@@ -66,5 +66,5 @@ https://www.rahulrahman.com
 <h3> 🤝🏻 Connect with Me </h3>
 
 [![Mail](https://img.shields.io/badge/hello@rahulrahman.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto::hello@rahulrahman.com?Subject=Hello)
-[![Skype](https://img.shields.io/badge/skype-%2300AFF0?style=for-the-badge&logo=Skype&logoColor=white)](skype::rahul.workspace@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/skype-%230077B5.svg?style=for-the-badge&logo=skype&logoColor=white)](skype:rahul.worksapce?add)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-workspace/)
